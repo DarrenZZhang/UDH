@@ -4,7 +4,7 @@
 
 #### Implementation platform: 
 * Python 3.6  
-* Pytorch 1.1
+* Pytorch 1.1 or updated version
 
 #### Datasets
 You need to download the following datasets from the original dataset website and make a training/test splitting.
